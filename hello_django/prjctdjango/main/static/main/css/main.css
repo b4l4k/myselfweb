@@ -20,6 +20,19 @@ aside {
     border-right: 5px solid #780000;
 }
 
-img {
-    width: 50px;
+aside img {
+    width: 75px;
+    float: left;
+}
+
+aside .logo {
+    font-size: 40px;
+    margin-left: 10px;
+    font-weight: bold;
+    position: relative;
+    top: -4px;
+}
+
+aside h3 {
+    margin-top: 100px;
 }
