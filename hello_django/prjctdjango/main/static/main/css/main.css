@@ -1,15 +1,23 @@
+/*
+dark blue -> #003049
+blue -> #669BBC
+dark red -> #780000
+red -> #C1121F
+light yellow -> #FDF0D5
+*/
+
 body {
-    background-color: #003049;
+    background-color: #FDF0D5;
 }
 
 aside {
     float: left;
-    background: #780000;
+    background: #C1121F;
     width: 20%;
     padding: 2.5%;
     height: 100vh;
-    color: #FDF0D5;
-    border-right: 5px solid #C1121F;
+    color: #003049;
+    border-right: 5px solid #780000;
 }
 
 img {
